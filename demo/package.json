@@ -14,7 +14,7 @@
   "devDependencies": {
     "cross-env": "^7.0.3",
     "intl-proxy": "^1.0.1",
-    "vite": "^2.9.14",
+    "vite": "^2.9.18",
     "vite-plugin-elm": "^2.6.1"
   },
   "dependencies": {
